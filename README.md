@@ -1,9 +1,8 @@
 ### Greetings 👋
 
 
-- 🔭 I’m currently working on My Portfolio
-- 🌱 I’m currently learning ASP.NET EF and Next.js / React
-- 👯 I’m looking to collaborate on a web app startup
+- 🔭 I’m currently working on finishing a Computer Science Degree
+- 🌱 I’m currently learning ASP.NET Entity Framework
 - 💬 Ask me about Web Development and Data Structures
 - 📫 How to reach me: ashirk94@gmail.com
 - 😄 Pronouns: He/Him
