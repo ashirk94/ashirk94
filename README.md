@@ -1,9 +1,8 @@
-### Greetings 👋
+### Hello, world 👋
 
 
-- 🔭 I’m currently finishing a Computer Science Degree
-- 🌱 I’m currently learning ASP.NET Entity Framework
-- 💬 Ask me about Web Development and Data Structures
+- 🔭 I plan to graduate with an AAS in Computer Programming in June 2022
+- 🌱 I’m currently building web applications in .NET Core
 - 📫 How to reach me: ashirk94@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I went to a Japanese Immersion School growing up
+- ⚡ Fun fact: I went to a Japanese Immersion School
