@@ -1,1 +1,1 @@
-Hi, I'm Alan Shirk. I'm a Computer Science student at PSU. I am currently taking Operating Systems, Intro to Software Engineering, and Intro to Computer Hardware.
+Hi, I'm Alan Shirk. I'm a Junior in Computer Science at Portland State University. I am currently taking CS 333 - Intro to Operating Systems, CS 314 - Elements of Software Engineering, and ECE 341 - Intro to Computer Hardware.
